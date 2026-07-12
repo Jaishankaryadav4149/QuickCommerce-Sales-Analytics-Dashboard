@@ -49,6 +49,21 @@ Tools Used
 <img width="960" height="540" alt="Area Analysis" src="https://github.com/user-attachments/assets/b20e0aef-b994-4de2-9923-57604d268e0a" />
 <img width="962" height="535" alt="Product Analysis" src="https://github.com/user-attachments/assets/630f1bb3-83ee-4b11-9ecd-38b92cbeae76" />
 <img width="956" height="533" alt="Customer Analysis" src="https://github.com/user-attachments/assets/7a281a15-1858-4d40-b509-1c45772b45cc" />
+Executive Dashboard
+
+![Executive Dashboard](Screenshots/Executive_Dashboard.png)
+
+Area Analysis
+
+![Area Analysis](Screenshots/Area_Analysis.png)
+
+Product Analysis
+
+![Product Analysis](Screenshots/Product_Analysis.png)
+
+Customer Analysis
+
+![Customer Analysis](Screenshots/Customer_Analysis.png)
 
 This project helped me improve my understanding of data cleaning, data modeling, DAX, dashboard design, and business intelligence using Power BI.
 
