@@ -49,21 +49,30 @@ Tools Used
 <img width="960" height="540" alt="Area Analysis" src="https://github.com/user-attachments/assets/b20e0aef-b994-4de2-9923-57604d268e0a" />
 <img width="962" height="535" alt="Product Analysis" src="https://github.com/user-attachments/assets/630f1bb3-83ee-4b11-9ecd-38b92cbeae76" />
 <img width="956" height="533" alt="Customer Analysis" src="https://github.com/user-attachments/assets/7a281a15-1858-4d40-b509-1c45772b45cc" />
-Executive Dashboard
 
-E commerce Sales Dashboard.png
+## Dashboard Preview
 
-Area Analysis
+### Executive Dashboard
 
-![Area Analysis](Screenshots/Area_Analysis.png)
+![E commerce Sales Dashboard](https://github.com/user-attachments/assets/ddaa65c1-2126-40e0-8cac-c709f8177588)
 
-Product Analysis
+---
 
-![Product Analysis](Screenshots/Product_Analysis.png)
+### Area Analysis
 
-Customer Analysis
+![Area Analysis](https://github.com/user-attachments/assets/b20e0aef-b994-4de2-9923-57604d268e0a)
 
-![Customer Analysis](Screenshots/Customer_Analysis.png)
+---
+
+### Product Analysis
+
+![Product Analysis](https://github.com/user-attachments/assets/630f1bb3-83ee-4b11-9ecd-38b92cbeae76)
+
+---
+
+### Customer Analysis
+
+![Customer Analysis](https://github.com/user-attachments/assets/7a281a15-1858-4d40-b509-1c45772b45cc)
 
 This project helped me improve my understanding of data cleaning, data modeling, DAX, dashboard design, and business intelligence using Power BI.
 
