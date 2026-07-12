@@ -45,12 +45,6 @@ Tools Used
 • Data Source: Microsoft Excel
 
 ## Dashboard Preview
-<img width="957" height="542" alt="E commerce Sales Dasboard" src="https://github.com/user-attachments/assets/ddaa65c1-2126-40e0-8cac-c709f8177588" />
-<img width="960" height="540" alt="Area Analysis" src="https://github.com/user-attachments/assets/b20e0aef-b994-4de2-9923-57604d268e0a" />
-<img width="962" height="535" alt="Product Analysis" src="https://github.com/user-attachments/assets/630f1bb3-83ee-4b11-9ecd-38b92cbeae76" />
-<img width="956" height="533" alt="Customer Analysis" src="https://github.com/user-attachments/assets/7a281a15-1858-4d40-b509-1c45772b45cc" />
-
-## Dashboard Preview
 
 ### Executive Dashboard
 
