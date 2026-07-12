@@ -51,7 +51,7 @@ Tools Used
 <img width="956" height="533" alt="Customer Analysis" src="https://github.com/user-attachments/assets/7a281a15-1858-4d40-b509-1c45772b45cc" />
 Executive Dashboard
 
-![Executive Dashboard](Screenshots/Executive_Dashboard.png)
+E commerce Sales Dasboard.png
 
 Area Analysis
 
